@@ -1,3 +1,10 @@
+Genel Commit için
+    git checkout master
+    git pull origin master
+    git add . 
+    git commit -m "aciklama"
+    git push origin master
+
 Proje klasörünün içinde, her yazılımcı için ayrı klasör varsa;
 -------------------------
 Branch Kullanma:
@@ -28,3 +35,5 @@ Her yazılımcı kendi branch’inde çalıştıktan sonra, kodlarını ana bran
 Push İşlemi:
 Değişiklikleri GitHub’a göndermek için:
     git push origin main
+
+
